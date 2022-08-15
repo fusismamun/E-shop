@@ -16,9 +16,10 @@
 .search {
   padding: 20px 0;
 }
-.search .logo img {
+.search .logo {
   width: auto;
   height: auto;
+  color: #ff014f;
 }
 .search .width {
   width: 20%;
